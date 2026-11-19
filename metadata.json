@@ -1,0 +1,6 @@
+{
+  "name": "PlanilhaLab",
+  "description": "Aplicativo local e offline para estudar Excel do básico ao avançado com aulas gratuitas avulsas do YouTube, mini planilha interativa, gerador de dados fictícios, guia offline, timer de foco, anotações e lembretes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
